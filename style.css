@@ -1,0 +1,20 @@
+.block{
+    border: solid;color: black;
+    border-style:dotted;
+    background-color: blueviolet;
+    padding: 20px;
+    margin: 5%;
+    
+    width: 80%;
+}
+ .words{
+    border-style: solid;
+    background-color: blue;
+    padding: 20px;
+    margin: 5%;
+    text-align: center;
+    width: 80%;
+ 
+  
+
+}
